@@ -1,0 +1,11 @@
+commit c00204198ad3b356dbba289f67cc5e0f0c6c9a0e (HEAD -> master)
+Author: Dawid <muchad721@gmail.com>
+Date:   Sun Jun 11 19:32:08 2023 +0200
+
+    ignorowanie doc
+
+commit 0d7331cebae12fb4cb95505dd98e46750174afb3 (origin/master)
+Author: Dawid <muchad721@gmail.com>
+Date:   Sun Jun 11 19:16:14 2023 +0200
+
+    ryba
